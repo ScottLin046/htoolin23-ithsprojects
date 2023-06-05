@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+.navbar{
+	z-index: 1;
+	
+}
+.title{
+    color: black;
+    font-family: SeoulHangang CBL;
+    font-size: 2rem;
+    padding: 0;
+    text-align: center;
+}
+.active{
+	color: whitesmoke;
+}
+.nav-link {
+    color: white;
+    
+	font-family: Roboto Light;
+font-style: normal;
+font-weight: 300;
+font-size: 1rem;
+line-height: 23px;
+
+align-items: center;
+text-align: center;
+letter-spacing: 0.095em;
+}
+.hero {
+	
+    padding:0;
+   	margin-top: -60px;
+	position: relative;
+}
+.top{
+	position: absolute;
+width: 1350px;
+height: 252px;
+
+top: 356px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 106px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+.bottom{
+	position: absolute;
+width: 1350px;
+height: 252px;
+
+top: 448px;
+
+font-family: 'Road Rage';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 106px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+@media (min-width:780px){
+}
